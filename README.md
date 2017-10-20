@@ -1,7 +1,7 @@
 # attiny13-software-uart-library
 ATtiny13 Software UART library.
 
-# Example code
+## Example code
 ```c
 /**
  * Copyright (c) 2017, Łukasz Marcin Podkalicki <lpodkalicki@gmail.com>
