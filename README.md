@@ -1,5 +1,5 @@
 # attiny13-software-uart-library
-ATtiny13 Software UART library.
+ATtiny13 Software UART library. More info here - http://blog.podkalicki.com/attiny13-software-uart-debug-logger/
 
 ## Example code
 ```c
