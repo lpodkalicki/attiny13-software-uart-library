@@ -7,8 +7,8 @@
 #ifndef	_UART_H_
 #define	_UART_H_
 
-//#define	UART_RX_ENABLED		(1) // Enable UART RX
-//#define	UART_TX_ENABLED		(1) // Enable UART TX
+#define	UART_RX_ENABLED		(1) // Enable UART RX
+#define	UART_TX_ENABLED		(1) // Enable UART TX
 
 #ifndef F_CPU
 # define        F_CPU           (1200000UL) // 1.2 MHz
